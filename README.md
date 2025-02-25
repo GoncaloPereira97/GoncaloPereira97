@@ -3,6 +3,9 @@
 **`Software Developer (Developer/Student/Shopkeeper)`**
 
 Hi there! I'm a passionate Software Developer with a diverse background, always eager to learn and grow. From my experience as a shopkeeper to working with hands-on skills like carpentry and electrical work, I bring a unique perspective to problem-solving and innovation.
+
+I'm a firm believer in continuous learning and always strive to improve myself—whether it's through coding or exploring new areas of knowledge. As a gamer, I understand the importance of strategy, teamwork, and creativity, which I apply in every project I work on.
+
 ### 🧰 Languages and Tools
 
 <div style="position: relative,display: inline-block,border-bottom: 1px dotted black;">
